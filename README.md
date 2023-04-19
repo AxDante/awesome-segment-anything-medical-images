@@ -8,7 +8,7 @@ If you find any interesting works feel free to create pull requests or [*email* 
 
 
 
-### Survey 
+### Papers 
 
 
 
@@ -16,6 +16,8 @@ If you find any interesting works feel free to create pull requests or [*email* 
 | ---------------------- | ---------------------- |  ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |SAM.MD: Zero-shot medical image segmentation capabilities of the Segment Anything Mode |  [arxiv](https://arxiv.org/pdf/2304.05396.pdf) | - | abdominal CT organ | zero-shot | comparasion between prompted SAM and 2D and 3D nnUNet |
 | Segment Anything Model (SAM) for Digital Pathology: Assess Zero-shot Segmentation on Whole Slide Imaging |  [arxiv](https://arxiv.org/pdf/2304.04155.pdf) | - | Skin tumor, Skin tissue | zero-shot | comparasion between prompted SAM and SimTriplet 
+| When SAM Meets Medical Images: An Investigation of Segment Anything Model (SAM) on Multi-phase Liver Tumor Segmentation |  [arxiv](https://arxiv.org/pdf/2304.08506v1.pdf) | - | Liver Tumor  | zero-shot | comparasion between SAM and UNet 
+| SAM vs BET: A Comparative Study for Brain Extraction and Segmentation of Magnetic Resonance Images using Deep Learning |  [arxiv](https://arxiv.org/pdf/2304.04738.pdf) | - | Brain MRI  | zero-shot | brain extraction
 
 
 
