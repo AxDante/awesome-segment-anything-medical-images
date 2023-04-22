@@ -18,6 +18,8 @@ If you find any interesting works feel free to create pull requests or [*email* 
 | Segment Anything Model (SAM) for Digital Pathology: Assess Zero-shot Segmentation on Whole Slide Imaging |  [arxiv](https://arxiv.org/pdf/2304.04155.pdf) | - | Skin tumor, Skin tissue | zero-shot | comparasion between prompted SAM and SimTriplet 
 | When SAM Meets Medical Images: An Investigation of Segment Anything Model (SAM) on Multi-phase Liver Tumor Segmentation |  [arxiv](https://arxiv.org/pdf/2304.08506v1.pdf) | - | Liver Tumor  | zero-shot | comparasion between SAM and UNet 
 | SAM vs BET: A Comparative Study for Brain Extraction and Segmentation of Magnetic Resonance Images using Deep Learning |  [arxiv](https://arxiv.org/pdf/2304.04738.pdf) | - | Brain MRI  | zero-shot | brain extraction
+|The “Segment Anything” foundation model achieves favorable brain tumor autosegmentation accuracy on MRI to support radiotherapy treatment planning |  [arxiv](https://arxiv.org/abs/2304.07875) | - | Brain MRI  |  | using BraTS 2020 dataset, use promting for SAM
+|Accuracy of Segment-Anything Model (SAM) in Medical Image Segmentation Tasks |  [arxiv](https://arxiv.org/abs/2304.09324) | - | Various  |  | Datasets: ACDC, LiTS, Hipp, ISIC, Prostate, LA, BraTS, Pancreas, BUID, Kvasir, CIR. Benchmark Models: U-Net, U-Net++, Attention U-Net, Trans U-Net, UCTransNet, SAM, SAM-Points, SAM-Boxes (3 prompting settings).
 
 
 
