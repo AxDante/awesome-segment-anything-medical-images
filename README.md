@@ -23,7 +23,7 @@ If you find any interesting works feel free to create pull requests or [*email* 
 |Can SAM Segment Polyps? |  [arxiv](https://arxiv.org/pdf/2304.07583.pdf) | - | Polyp  |  | Utilizes unprompted settings for SAM. Compute S-measure (Sα) score values for the N masks, and the mask with the highest score is selected as the segmentation map.
 |Segment Anything Model for Medical Image Analysis: an Experimental Study |  [arxiv](https://arxiv.org/abs/2304.10517) | [Code](https://github.com/mazurowski-lab/segment-anything-medical) | Various  |  | Tests SAM on 11 medical datasets. Compares results with RITM. Experiments with various number of prompts.
 |Segment Anything in Medical Images|  [arxiv](https://arxiv.org/abs/2304.12306) | [Code](https://github.com/bowang-lab/MedSAM) | Various  |  | Development of fine-tuning method to adapt SAM to general medical image segmentation.
-|Medical SAM Adapter: Adapting Segment Anything Model for Medical Image Segmentation|  [arxiv](https://arxiv.org/abs/2304.12306) | [Code](https://github.com/bowang-lab/MedSAM) | Various  |  | Introduction of Medical SAM Adapter (MSA), a bottle-neck model to fine-tune the SAM model. Various datasets (AMOS2022, BTCV, and etc) are used
+|Medical SAM Adapter: Adapting Segment Anything Model for Medical Image Segmentation|  [arxiv](https://arxiv.org/abs/2304.12620) | [Code](https://github.com/WuJunde/Medical-SAM-Adapter) | Various  |  | Introduction of Medical SAM Adapter (MSA), a bottle-neck model to fine-tune the SAM model. Various datasets (AMOS2022, BTCV, and etc) are used
 
 ### Related Projects
 
